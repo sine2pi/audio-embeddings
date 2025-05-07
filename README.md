@@ -1,4 +1,4 @@
-# FrequencyBandRotary: Optimized for ASR Models
+# FrequencyBandRotary: Optimized for ASR Models - Experimental
 
 The FrequencyBandRotary approach is particularly well-suited for ASR models because it mirrors how speech signals naturally organize across the frequency spectrum. Let me elaborate on why this design is especially powerful for speech recognition:
 
